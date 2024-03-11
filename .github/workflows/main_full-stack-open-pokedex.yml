@@ -81,4 +81,3 @@ jobs:
           app-name: "full-stack-open-pokedex"
           slot-name: "Production"
           package: .
-          startup-command: npm run start-prod
